@@ -1,1 +1,1 @@
-# --BotKit
+# BotKit
